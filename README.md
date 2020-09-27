@@ -18,5 +18,5 @@ OpenCV: https://www.youtube.com/watch?v=SrZuwM705yE
 		https://www.youtube.com/watch?v=-4MPtERPq2E
 
 Spread Sheets: https://www.analyticsvidhya.com/blog/2020/07/read-and-update-google-spreadsheets-with-python/
-https://console.developers.google.com/apis
+Google APIs: https://console.developers.google.com/apis
 Gspread Module: https://gspread.readthedocs.io/en/latest/user-guide.html
