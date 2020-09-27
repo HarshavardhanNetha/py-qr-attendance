@@ -1,4 +1,4 @@
-# py-qr-attendance
+# Attendance Made Easy | Python | QR | py-qr-attendance
 ## Aim: This project aims to use technology to the fullest to make it ease and to reduce the errors in the process of "Attendance".
 
 ### Technologies Used: Python, openCV, QR(Quick Response Code), Google Sheets and Google Drive APIs
