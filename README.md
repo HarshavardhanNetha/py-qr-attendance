@@ -12,6 +12,8 @@ Step 3: After all students show their codes, we process the list and add attenda
 
 Note: This repo may not contain all required files like JSON file which we use to interact with google spreadsheet in step 3.
 
+Feel free to reach me at linkedin.com/in/harsha-netha for any queries.
+
 ### References
 QR: https://note.nkmk.me/en/python-pillow-qrcode/
 open pyxl: https://www.youtube.com/watch?v=AOTCpZbC80Y
