@@ -10,6 +10,8 @@ Step 2: We run our 2nd program to take input via camera (opencv), and ask the st
 
 Step 3: After all students show their codes, we process the list and add attendance to an online spreadsheet.
 
+Note: This repo may not contain all required files like JSON file which we use to interact with google spreadsheet in step 3.
+
 ### References
 QR: https://note.nkmk.me/en/python-pillow-qrcode/
 open pyxl: https://www.youtube.com/watch?v=AOTCpZbC80Y
